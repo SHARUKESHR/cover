@@ -149,7 +149,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Alt text](<Screenshot (17).png>)
+![Screenshot (17)](https://github.com/SHARUKESHR/cover/assets/144870484/31594bb0-a125-4d2f-9069-cdcd008dec73)
+
 
 
 ## RESULT:
